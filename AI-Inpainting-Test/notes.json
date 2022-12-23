@@ -1,0 +1,13 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Car"
+    }
+  ],
+  "info": {
+    "year": 2022,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
